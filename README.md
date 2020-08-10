@@ -19,7 +19,7 @@ I'm a passionate android developer, who also loves Mobile Games development.
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
+*NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on my public repositories on github.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
