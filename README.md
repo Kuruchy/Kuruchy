@@ -1,14 +1,14 @@
 ### Hi there, I'm Bruno Retolaza aka [Kuruchy!](https://kuruchy.github.io) 👋
+---
+#### I'm a Software Engineer 🤖 passionate about Android 📱 and Game development 🎮
 
-I'm a passionate android developer, who also loves Mobile Games development.
-
-- 🔭 I’m currently working on my project [MTG Unity](https://play.google.com/store/apps/details?id=com.kurulabs.mtgunity&hl=es_419), on other Android Apps still not ready to ship, and on my [Mobile](https://github.com/Kuruchy/Spaceshooter) and Desktop games.
-- 🌱 I’m currently learning to use Blender
+- 🔭 I’m currently working on my Android App [MTG Unity](https://play.google.com/store/apps/details?id=com.kurulabs.mtgunity&hl=es_419), on other Android Apps still not ready to the public and on a [Mobile](https://github.com/Kuruchy/Spaceshooter) game and desktop RPG.
+- 🌱 I’m currently learning to use [Blender](https://www.blender.org/) and better understand [Dagger2](https://github.com/google/dagger)
 - 👯 I’m looking to collaborate on some Open Source Projects
 - ⚡ Fun fact: I love climbing and bouldering
-- 💬 Ask me about anything android and/or why not climbing related [here](https://github.com/kuruchy/kuruchy/issues)
+- 💬 Ask me about anything Android dev or Game dev  related and, why not, anythig about climbing [here](https://github.com/kuruchy/kuruchy/issues)
 
-**Languages and Tools:**  
+#### **Languages and Tools:**
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -19,7 +19,7 @@ I'm a passionate android developer, who also loves Mobile Games development.
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png"></code>
 
-*NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most code on my public repositories on github.
+*NOTE: Top languages do not indicate my skill level or anything like that, it's a github metric of which languages I have the most code on my public repositories on github.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,3 +30,6 @@ I'm a passionate android developer, who also loves Mobile Games development.
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuruchy&layout=compact&theme=solarized-dark" />
 </a>
 
+---
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8567562/kuruchy)](https://stackoverflow.com/users/8567562/kuruchy)
