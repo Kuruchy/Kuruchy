@@ -25,10 +25,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&include_all_commits=true&theme=solarized-dark&count_private=true" alt="Kuruchy's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&theme=solarized-dark&count_private=true" alt="Kuruchy's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuruchy&layout=compact&theme=solarized-dark" />
 </a>
 
