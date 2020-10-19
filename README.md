@@ -3,7 +3,7 @@
 #### I'm a Software Engineer 🤖 passionate about Android 📱 and Game development 🎮
 
 - 🔭 I’m currently working on my Android App [MTG Unity](https://play.google.com/store/apps/details?id=com.kurulabs.mtgunity&hl=es_419), on other Android Apps not yet ready to release and on an Open Source [Mobile Spaceshooter](https://github.com/Kuruchy/Spaceshooter) and a desktop RPG.
-- 🌱 I’m currently learning to use [Blender](https://www.blender.org/) and mastering [Dagger2](https://github.com/google/dagger)
+- 🌱 I’m currently learning to use [Blender](https://www.blender.org/)
 - ⚡ Fun fact: I love climbing and bouldering
 - 💬 Ask me about anything Android dev or Game dev  related and, why not, anythig about climbing [here](https://github.com/kuruchy/kuruchy/issues)
 
