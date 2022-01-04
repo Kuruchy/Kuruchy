@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning to use [Blender](https://www.blender.org/)
 - ⚡ Fun fact: I love climbing and bouldering
 - 💬 Ask me about anything Android dev or Game dev  related and, why not, anything about climbing [here](https://github.com/kuruchy/kuruchy/issues)
-
 ---
 
 ### **Languages and Tools:**
@@ -30,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuruchy&theme=highcontrast" alt="kuruchy" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=darkhub&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
-
 ---
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
