@@ -23,11 +23,11 @@
 
 ### **Stats**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Kuruchy's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Kuruchy's github stats" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuruchy&theme=highcontrast" alt="kuruchy" /></p>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=darkhub&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuruchy&theme=gruvbox" alt="kuruchy" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=gruvbox&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
 
 ### **Social**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
