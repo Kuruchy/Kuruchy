@@ -1,5 +1,4 @@
 ## Hi there, I'm Bruno Retolaza aka [Kuruchy!](https://kuruchy.github.io) 👋
----
 #### I'm a Software Engineer 🤖 passionate about Android 📱 and Game development 🎮
 
 - 🔭 I’m currently working on my Android App [MTG Unity](https://play.google.com/store/apps/details?id=com.kurulabs.mtgunity&hl=es_419), on other Android Apps not yet ready to release and on an Open Source [Mobile Spaceshooter](https://github.com/Kuruchy/Spaceshooter) and a desktop RPG.
@@ -33,5 +32,6 @@
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=darkhub&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
 
 ---
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8567562/kuruchy)](https://stackoverflow.com/users/8567562/kuruchy)
