@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning to use [Blender](https://www.blender.org/)
 - ⚡ Fun fact: I love climbing and bouldering
 - 💬 Ask me about anything Android dev or Game dev  related and, why not, anything about climbing [here](https://github.com/kuruchy/kuruchy/issues)
----
 
-### **Languages and Tools:**
+### **Languages and Tools**
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/android_stdudio.svg"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -22,14 +21,14 @@
 <code><img height="36" src="https://raw.githubusercontent.com/Kuruchy/Kuruchy/master/data/windows_terminal.png"></code>
 ---
 
-### **Stats:**
+### **Stats**
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Kuruchy's github stats" />
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuruchy&theme=highcontrast" alt="kuruchy" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=darkhub&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
----
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8567562/kuruchy)](https://stackoverflow.com/users/8567562/kuruchy)
+### **Social**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-retolaza/)](https://www.linkedin.com/in/bruno-retolaza/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8567562/kuruchy)](https://stackoverflow.com/users/8567562/kuruchy)
