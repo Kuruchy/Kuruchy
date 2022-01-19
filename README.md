@@ -1,9 +1,9 @@
 ## Hi there, I'm Bruno Retolaza aka [Kuruchy!](https://kuruchy.github.io) 👋
 #### I'm a Software Engineer 🤖 passionate about Android 📱 and Game development 🎮
 
-- 🔭 I’m currently working on my Android App [MTG Unity](https://play.google.com/store/apps/details?id=com.kurulabs.mtgunity&hl=es_419), on other Android Apps not yet ready to release and on an Open Source [Mobile Spaceshooter](https://github.com/Kuruchy/Spaceshooter) and a desktop RPG.
-- 🎮 I will release a Puzzle Mobile Game soon! If you want to be an Alpha Tester, ping me!
-- 🌱 I’m currently learning to use [Blender](https://www.blender.org/)
+- 🔭 I’m currently working on [Infinite](https://github.com/Kuruchy/Infinite) an Android App to convert Climbing Grades, on an Open Source [2048 Clone](https://github.com/Kuruchy/2048) and a Puzzle Game.
+- 🎮 I will release a H3X, a puzzle mobile game soon! If you want to be an Alpha Tester, ping me!
+- 🌱 I’m currently reading [Jetpack Compose Internals](https://jorgecastillo.dev/book/)
 - ⚡ Fun fact: I love climbing and bouldering
 - 💬 Ask me about anything Android dev or Game dev  related and, why not, anything about climbing [here](https://github.com/kuruchy/kuruchy/issues)
 
