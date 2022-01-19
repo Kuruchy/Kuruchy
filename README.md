@@ -2,7 +2,7 @@
 #### I'm a Software Engineer 🤖 passionate about Android 📱 and Game development 🎮
 
 - 🔭 I’m currently working on [Infinite](https://github.com/Kuruchy/Infinite) an Android App to convert Climbing Grades, on an Open Source [2048 Clone](https://github.com/Kuruchy/2048) and a Puzzle Game.
-- 🎮 I will release a H3X, a puzzle mobile game soon! If you want to be an Alpha Tester, ping me!
+- 🎮 I will release H3X, a puzzle mobile game soon! If you want to be an Alpha Tester, ping me!
 - 🌱 I’m currently reading [Jetpack Compose Internals](https://jorgecastillo.dev/book/)
 - ⚡ Fun fact: I love climbing and bouldering
 - 💬 Ask me about anything Android dev or Game dev  related and, why not, anything about climbing [here](https://github.com/kuruchy/kuruchy/issues)
