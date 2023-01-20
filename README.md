@@ -21,10 +21,6 @@
 ---
 
 ### **Stats**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kuruchy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Kuruchy's github stats" />
-</a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuruchy&theme=gruvbox" alt="kuruchy" /></p>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuruchy&theme=gruvbox&row=2&column=3&rank=SECRET,S,SS,SSS,A,AA,AAA" alt="kuruchy" /></p>
 
