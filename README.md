@@ -28,7 +28,7 @@
 * 🔭 **Architecture:** Building unified logic for Android & iOS using **KMP**.
 * 🧠 **AI Integration:** Implementing on-device ML and LLM interactions.
 * 🎨 **UI/UX:** Creating fluid, reactive interfaces with **Compose**.
-* 🧗 **Offline:** When I'm not coding, I'm analyzing climbing beta or developing indie games.
+* 🧗 **Offline:** When I'm not coding, I'm analyzing climbing beta or studying with GTO Wizard.
 
 <br>
 
