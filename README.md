@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://kuruchy.github.io">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Bruno+Retolaza;Senior+Mobile+Engineer;Kotlin+Multiplatform+Enthusiast;Building+AI-Powered+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello,+I'm+Bruno+Retolaza;Senior+Mobile+Engineer;KMP+CMP+Enthusiast;AI-Powered+Solutions" alt="Typing SVG" />
   </a>
 
   <h3 align="center">🚀 Mobile Architect & AI Engineer</h3>
